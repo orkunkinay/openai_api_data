@@ -19,6 +19,7 @@ Text,gpt-4.1-mini,2025-04-14,0.4,0.1,1.6
 Text,gpt-4.1-nano,2025-04-14,0.1,0.025,0.4
 Text,o1-pro,2025-03-19,150.0,,600.0
 Text,o3,2025-04-16,10.0,2.5,40.0
+Text,o4-mini,2025-04-16,1.1,0.275,4.4
 Text,gpt-4o-mini-search-preview,2025-03-11,0.15,,0.6
 Text,gpt-4o-search-preview,2025-03-11,2.5,,10.0
 Text,computer-use-preview,2025-03-11,3.0,,12.0
